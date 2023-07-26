@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/background/20210710/original/pngtree-electronic-technology-business-blue-robot-banner-picture-image_1045717.jpg)
+[![MasterHead](https://wallpapercave.com/wp/wp5027059.jpg)
 <h1 align="center">Hi 👋, I'm Devu Augustine</h1>
 <h3 align="center">A passionate electonics engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/XeC4yf26vlQAAAAi/work-working-from-home.gif">
